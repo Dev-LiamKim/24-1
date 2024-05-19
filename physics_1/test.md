@@ -1,2 +1,1 @@
-# 24-1
-24-1학기 수업정보
+does this gonna be worth it?
