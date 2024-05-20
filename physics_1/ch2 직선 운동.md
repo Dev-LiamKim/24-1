@@ -28,7 +28,7 @@
 
 식 2.2a의 극한 과정을 미분이라고 부르며, x의 시간 t에 대한 도함수(derivative) $dx/dt$는 다음과 같이 표기한다.
 
->$$\frac{dx}{dt} = \lim_{\Delta t \rightarrow 0} \frac{\Delta x}{\Delta t}
+>$$\frac{dx}{dt} = \lim_{\Delta t \rightarrow 0} \frac{\Delta x}{\Delta t}$$
 
 $dx$와 $dt$를 극한 과정에서 0으로 접근하는 무한소(infinitesimal)라고 한다. 따라서 식 2.2를  다음과 같이 표기할 수 있다.
 
