@@ -55,7 +55,7 @@ $$v(t) = \int a(t)dt$$
 식(2.13) 속도를 적분하면 위치를 얻는다 이를 표기하라
 ?
 $$x(t) = \int v(t)dt$$
-
+sync test
 
 
 #physics_ch2
