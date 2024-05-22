@@ -1,1 +1,5 @@
-books/
+books/*pdf
+
+#but Import these
+!books/Essential_University_Physicis.pdf
+!books/Elementary_Linear_Alebra.pdf
