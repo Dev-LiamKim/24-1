@@ -56,18 +56,19 @@ $(3.2)$
 $$A_x = A\cos\theta,\quad A_y = A\sin\theta$$ ^51cede
 
 $(3.3)$
-$$\bar {\vec v} = \frac{\Delta \vec r}{\Delta t}$$
+$$\bar {\vec v} = \frac{\Delta \vec r}{\Delta t}$$ ^3774fc
+
 $(3.4)$
-$$\vec v = \lim_{\Delta t \to 0}\frac{\Delta \vec r}{\Delta t} =\frac{d\vec r}{dt}$$
+$$\vec v = \lim_{\Delta t \to 0}\frac{\Delta \vec r}{\Delta t} =\frac{d\vec r}{dt}$$ ^cee9d3
 
 $(3.5)$
-$$\bar {\vec a} = \frac{\Delta \vec r} {\Delta t}$$
+$$\bar {\vec a} = \frac{\Delta \vec r} {\Delta t}$$ ^d626f8
 
 $(3.6)$
-$$\vec a = \lim_{\Delta t \to 0}\frac{\Delta \vec v}{\Delta t} = \frac{d\vec v}{dt}$$
+$$\vec a = \lim_{\Delta t \to 0}\frac{\Delta \vec v}{\Delta t} = \frac{d\vec v}{dt}$$ ^0035f4
 
 $(3.7)$
-$$\vec v = \vec{v^\prime} + \vec V$$
+$$\vec v = \vec{v^\prime} + \vec V$$ ^1f37f3
 
 $(3.8)$
 $$\vec v = \vec v_0 + \vec at$$
