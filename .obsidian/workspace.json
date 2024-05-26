@@ -8,35 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c43bed3d28defe4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5a631485e25f3a66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "books/Essential_University_Physics/Essential_University_Physicis.pdf",
+                "page": 2,
+                "left": -506,
+                "top": 718,
+                "zoom": 0.6522988505747128
+              }
             }
           },
           {
             "id": "9d1a1df7d9ffea44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "books/Essential_University_Physics/핵심물리학_OCR.pdf",
+                "page": 66,
+                "left": -272,
+                "top": 650,
+                "zoom": 0.6073127229488704
+              }
             }
           },
           {
             "id": "7ca47116b1506fdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "books/Essential_University_Physics/Essential_University_Physicis 25.webp"
+              }
             }
           }
         ]
@@ -89,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 557.5,
+    "collapsed": true
   },
   "right": {
     "id": "608f9b7db7cfd50e",
@@ -105,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "books/Essential_University_Physics/Essential_University_Physicis.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "books/Essential_University_Physics/Essential_University_Physicis.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "books/Essential_University_Physics/Essential_University_Physicis.pdf"
+              }
             }
           },
           {
@@ -177,8 +188,65 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7c43bed3d28defe4",
+  "floating": {
+    "id": "ed688802b817563b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "67352a7427881330",
+        "type": "window",
+        "children": [
+          {
+            "id": "44e864b482f04aa8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ecba1cc89b54f1f1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "physics_1/summary/ch4 힘과 운동.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 832,
+        "y": 136,
+        "width": 601,
+        "height": 601,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5a631485e25f3a66",
   "lastOpenFiles": [
+    "physics_1/summary/ch4 힘과 운동.md",
+    "books/Essential_University_Physics/Essential_University_Physicis.pdf",
+    "books/Essential_University_Physics/Essential_University_Physicis 25.webp",
+    "physics_1/summary/ch3 이차원, 삼차원 운동.md",
+    "books/Essential_University_Physics/Essential_University_Physicis 26.webp",
+    "physics_1/summary/ch2 직선 운동.md",
+    "books/Essential_University_Physics/핵심물리학_OCR.pdf",
+    "books/Essential_University_Physics/Essential_University_Physicis 24.webp",
+    "books/Essential_University_Physics/Essential_University_Physicis 23.webp",
+    "books/Essential_University_Physics/Essential_University_Physicis 22.webp",
+    "books/Essential_University_Physics/Essential_University_Physicis 21.webp",
+    "books/Essential_University_Physics/Essential_University_Physicis 20.webp",
+    "books/Essential_University_Physics/Essential_University_Physicis 19.webp",
+    "books/Essential_University_Physics/Essential_University_Physicis 18.webp",
+    "books/Essential_University_Physics/Essential_University_Physicis 17.webp",
+    "physics_1/physics_math_ex_set.md",
+    "discreteMath/noteTake/13. 재귀적 관계.md",
+    "books",
+    "creativeEngineeringDesign/2024-05-20.md",
+    "README.md",
     "24-1/quizSet/quiz/physics_1/ch3 Quiz.md",
     "24-1/quizSet/quiz/physics_1/ch4 Quiz.md",
     "24-1/Todo.md",
@@ -196,36 +264,16 @@
     "24-1/OneDrive/사진/스크린샷",
     "24-1/OneDrive/사진",
     "24-1/OneDrive/문서/Office Lens",
-    "24-1/OneDrive/문서/핵심물리학.url",
-    "24-1/OneDrive/문서/동혁의 전자 필기장.url",
-    "24-1/OneDrive/문서/한국사 기록.url",
     "24-1/quizSet/quiz/physics_1/physics_math_ex_set2.md",
     "24-1/physics_1/summary/ch4 힘과 운동.md",
     "24-1/physics_1/summary/ch2 직선 운동.md",
     "Untitled.md",
-    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 25.webp",
-    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 24.webp",
-    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 23.webp",
-    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 22.webp",
-    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 21.webp",
-    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 20.webp",
-    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 19.webp",
-    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 18.webp",
-    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 17.webp",
     "24-1/physics_1/summary/ch16.md",
-    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 16.webp",
     "24-1/discreteMath/noteTake/12. 순열_이산적확률_재귀적관계.md",
     "24-1/discreteMath/noteTake/13. 재귀적 관계.md",
     "24-1/artificlaIntelligence/다른 조 발표 정리.md",
-    "24-1/history/2024-05-20.md",
-    "24-1/history/2024-05-22.md",
-    "24-1/quizSet/quiz/physics_1/physics_math_ex_set 1.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2024-05-21.md",
-    "Welcome.md",
-    "24-1/creativeEngineeringDesign/2024-05-22.md",
-    "24-1/history/한국사 과제_의병.md"
+    "Untitled.canvas"
   ]
 }

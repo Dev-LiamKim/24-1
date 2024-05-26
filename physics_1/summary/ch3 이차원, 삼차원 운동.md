@@ -11,28 +11,29 @@
 ### 위치와 변위
   원점에서 어떤 점까지 그린 화살표를 그 점의 **위치 벡터**(position vector) $\vec{r}$ 로 표시한다. $\Delta \vec{r}$를 위치변화를 나타내는 **변위 벡터**(displacement vector)라고 부른다.
   **벡터 더하기**(vector addtion)는 다음과 같은 규칙을 성립한다.
-![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 2.webp]]
+![[/books/Essential_University_Physics/Essential_University_Physicis 2.webp]]
+
 $$\vec{A} + \vec{B} = \vec{B} + \vec{A}$$ 
-![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis.webp]]
+![[/books/Essential_University_Physics/Essential_University_Physicis.webp]]
 $$(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$$
 
 ### 곱하기
-![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 1.webp]]
+![[/books/Essential_University_Physics/Essential_University_Physicis 1.webp]]
   벡터 $\vec{B}$가 벡터 $\vec{A}$보다 2배 크면 $\vec{B} = 2\vec{A}$로 표기한다. 스칼라와 벡터의 곱은 벡터의 크기만 바꾼다. 위위 그림에서 $\vec{r_1} = \vec{r_2}+(-1)\Delta\vec{r}$ 또는 $\vec{r_1} = \vec{r_2} - \Delta\vec{r}$임을 알 수 있다.
   
 
 ### 벡터 성분
 **좌표계**는 공간에서 위치를 지정하는 틀이다. **데카르트 좌표계**(Cartesian coordinate system),  **직각 좌표계**(rectangular coordinate system)에서는 평면의 한 점을 $(x,y)$로 표기한다. 직각 좌표계에서 $\vec{A}$의 성분은 $A_x$와 $A_y$로 표기한다. 이들 성분 벡터가 아니고 스칼라다. 이를 피타고라스를 정리를 이용하면 다음의 관계식을 얻을 수 있다.
-![[24-1/physics_1/physics_math_ex_set#^0c3e0f]]
+![[/books/physics_math_ex_set#^0c3e0f]]
   또한 다음과 같이 표기할 수 있다.
-![[24-1/physics_1/physics_math_ex_set#^51cede]]
+![[/books/physics_math_ex_set#^51cede]]
 
-![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 3.webp]]
+![[/books/Essential_University_Physics/Essential_University_Physicis 3.webp]]
 	
 ### 단위 벡터
   **단위 벡터**(unit vector) $\hat i$와 $\hat j$를 사용하면 훨씬 간명하고 편리하게 표현할 수 있다. 단위 벡터의 크기 1이고, 단위가 없으면 각각$x$축과 $y$축의 양의 방향을 향한다. 삼차원에서는 $z$축 방향의 단위 벡터 $\hat k$를 추가한다. 이차원 평면에서 $\vec A = A_x\hat i + A_y\hat j$ ,삼차원 공간에서 $\vec A = A_x\hat i + A_y\hat j + A_z\hat k$로 표기한다.
 
-| ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 4.webp]] | ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 5.webp]] |
+| ![[/books/Essential_University_Physics/Essential_University_Physicis 4.webp]] | ![[/books/Essential_University_Physics/Essential_University_Physicis 5.webp]] |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
 ### 단위 벡터 계산
@@ -54,7 +55,7 @@ $$(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$$
   또한 성분으로 표기하면 다음과 같다.
   $$\vec a = \frac{d\vec v}{dt} = \frac{dv_x}{dt}\hat i + \frac{dv_y}{dt}\hat j = a_x\hat i + a_y\hat j$$  
 ### 이차원에서 속도 벡터와 가속도 벡터
-![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 6.webp|300]]
+![[/books/Essential_University_Physics/Essential_University_Physicis 6.webp|300]]
   일차원에서 운동하면 가속도가 있을 수도 없을 수도 있지만, 이차원이나 삼차원에서 곡선 운동은 항상 가속 운동이다. 고차원에서 운동하면 방향이 바뀌기 때문이다. 방향이 바뀌면 속도가 바뀌므로 가속도가 있다. 위 그림을 참조하자.
 ## 3.3 상대 운동
   한 **기준틀**(frame of reference)에 대한 어떤 물체의 상대 속도(비행기를 예로들) 다른 기준틀(지표면)에 대한 상대 속도 바꿔야 하는 경우가 있다. 일차원인 경우에는 두 벡터를 단순히 더하면 된다. 
@@ -67,14 +68,14 @@ $$(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$$
 >$\vec r_0$은 $t = 0$에서 초기 위치이다.
 >
 ## 3.5 발사체 운동
-![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 7.webp|500]]
+![[/books/Essential_University_Physics/Essential_University_Physicis 7.webp|500]]
   공중으로 발사된 **발사체**(projectile)는 중력의 영향 아래에서 움직인다. 발사체 운동을 기술하려면 다음의 두 가지 가정이 필요하다. 1) 중력가속도의 크기나 방향의 변화를 무시한다. 2) 공기 저항을 무시한다.
   발사체 운동을 기술할, $y$축을 수직방향, $x$축을 수평 방향으로 택하면 편리하다. 가속도 성분은 중력 가속도 하나뿐이므로, $a_x = 0, \quad a_y=-g$이다
   ![[physics_math_ex_set#^5a2a08]]![[physics_math_ex_set#^5cf907]]![[physics_math_ex_set#^964005]]![[physics_math_ex_set#^ceb39e]]
 
   
 ### 발사체 궤적
-![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 8.webp|500]]
+![[/books/Essential_University_Physics/Essential_University_Physicis 8.webp|500]]
   많은 경우 발사체 운동보다는 발사체 **궤적**(trajectory)에 관심이 많다. 위 그림에 따르면, 식 3.12와 3.13은 각각 다음과 같다. 
   $$x=v_0\cos\theta_0t \quad \quad and \quad \quad y = v_0\sin\theta_0t-\frac{1}{2}gt^2$$
   $x$성분 식에서 시간 $t$는 
@@ -94,14 +95,14 @@ $$x=\frac{2v_0^2}{g}\cos^2\theta_0\tan\theta_0=\frac{2v_0^2}{g}\sin\theta_0\cos\
 
   출발 높이와 도달 높이가 다르면 올바른 도달 거리가 아니다.
 
-| ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 12.webp]]<br><br> | ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 13.webp]]<br><br> |
+| ![[/books/Essential_University_Physics/Essential_University_Physicis 12.webp]]<br><br> | ![[/books/Essential_University_Physics/Essential_University_Physicis 13.webp]]<br><br> |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 
 ## 3.6 등속 원운동
-![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 14.webp|400]]
+![[/books/Essential_University_Physics/Essential_University_Physicis 14.webp|400]]
   **등속 원운동**은 속력은 일정하지만 속도의 방향이 바뀌므로 가속 운동이다. 위 그림은 반지름이 $r$인 원둘레를 속력 $v$로 움직이는 속도 벡터들이다. 속도 벡터들은 원의 접선방향이므로 운동의 순간 방향을 가리킨다.
   
-| ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 15.webp]] | ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 16.webp]] |
+| ![[/books/Essential_University_Physics/Essential_University_Physicis 15.webp]] | ![[/books/Essential_University_Physics/Essential_University_Physicis 16.webp]] |
 | --- | --- |
   그림 (b)는 변위 벡터 $\Delta \vec r = \vec r_2 - \vec r_1$, 그림 (c) 속도의 차이 $\Delta \vec v = \vec v_2 - \vec v_1$이다. 그림 (a)에서 $\vec v_1$은 $\vec r_1$에, $\vec v_2$은 $\vec r_1$에 수직이므로, 위 a, b, c 그림의 세 각도 $\theta$는 모두 같다. 그림 (b)와 (c)의 삼각형은 닮은꼴므로 다음을 얻는다.
   $$\frac{\Delta v}{v} = \frac{\Delta r}{r}$$

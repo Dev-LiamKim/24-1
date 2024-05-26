@@ -4,7 +4,7 @@
   밀고 당기는 것을 **힘**(force)라고 한다면 동역학의 본질은 다음과 같다.
   >힘은 운동을 변화시킨다.
 ### 알짜힘
-| ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 17.webp]] | ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 18.webp]] |
+| ![[/books/Essential_University_Physics/Essential_University_Physicis 17.webp]] | ![[/books/Essential_University_Physics/Essential_University_Physicis 18.webp]] |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
   힘은 방향을 가지므로 벡터량이다. 또 하나 이상의 힘이 물체에 작용할 수 있다. 물체에 작용하는 힘을 상호작용 힘(interaction force)이라고 부른다. 그림 (a)의 상호작용 힘은 두 사람이 자동차를 미는 힘이다. 그림 (b) 에서는 공기가 비행기에 작용하는 힘, 뜨거운 배출가스에서 얻는 엔진의 힘, 지구의 중력 등이 상호작용 힘이다.
   운동의 변화에는 **알짜힘**(net force)가 필수적이다. 알짜힘은 물체에 작용하는 상호작용 힘의 벡터합이다. 물체에 작용하는 알짜힘이 0이 아니면 물체의 운동은 반드시 변한다.
@@ -37,7 +37,7 @@
 ### 관성 기준계
   뉴턴의 법칙은 가속하는 기준계 에서는 성립하지 않고, 등속하는 기준계에서 만 성립한다. 이 기준계는 관성 법칙이 성립되기 때문에 **관성 기준계**(inertial reference frame)라고 한다. 가속하는 비행기, 커브길을 도는 자동차, 회전목마와 같은 비관성 기준계에서는 알짜힘이 없어도 정지해 있는 물체가 움직인다. 따라서 뉴턴의 제1법칙을 만족하는지 여부로 관성 기준계인지 구분할 수 있다. 
 ## 힘
-  ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 19.webp|300]]
+  ![[/books/Essential_University_Physics/Essential_University_Physicis 19.webp|300]]
   그림 처럼 의자에 앉으면 아래 방향으로 작용하는 중력 때문에 의자가 약간 압축된다. 이때 의자는 용수철 처럼 위 방향으로 힘을 작용한다. 위 방향의 힘이 아래 방향의 중력과 같아질 때까지 의자가 압축되면 더이상 알짜힘이 없어서 가속되지 않고 의자에 앉을 수 있다. 
   물체를 매단 줄의 **장력**(tension force)도 마찬가지다. 장력이 중력과 같아질 때까지 줄이 늘어난다.
   여행 가방을 당기는 힘, 의자가 위로 작용하는 힘, 야구방망이가 야구공에 작용하는 힘 등은 집적적인 접촉에 의해 힘이 작용하므로 **접촉력**(contact force)라고 한다. 반면 중력, 전기력, 자기력 같은 힘은 지구와 달과 같이 멀리 떨어져 있어도 작용하므로 **원격 작용력**(action-at-a-distance force)이라고 한다. 실제로는 이러한 구분이 모호하다. 미시 세계에서는 접촉력에 분자 사이의 전기력도 포함된다. 이것들에 관해서는 나중에 자세히 배울 것 이다.
@@ -68,7 +68,7 @@
 >1. 대상 물체를 정하고 물체에 작용하는 모든 힘을 찾는다.
 >2. 물체는 점으로 표시한다.
 >3. 물체에 작용하는 힘들만 벡터로 그린다. 모든 벡터가 점에서 시작하도록 벡터의 꼬리를 점에 둔다.
->![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 20.webp]]
+>![[/books/Essential_University_Physics/Essential_University_Physicis 20.webp]]
 
 
 ### 겉보기 무게
@@ -76,18 +76,18 @@
 
 ## 뉴턴의 제3법칙
 
-| ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 21.webp]] | ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 22.webp]] |
+| ![[/books/Essential_University_Physics/Essential_University_Physicis 21.webp]] | ![[/books/Essential_University_Physics/Essential_University_Physicis 22.webp]] |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
   두 물체 중에서 한(첫 번째) 물체가 다른(두 번째) 물체에 힘을 작용할 때마다 두 번째 물체는 첫 번째 물체에 힘을 작용한다. 이들 두 힘의 방향은 반대이고 크기는 같다. 17세기 용어로 뉴턴이 기술한 **뉴턴의 제3법칙**(Newton's third law) “모든 작용에는 크기가 같고 방향이 반대인 반작용이 있다.”이다. 사실상 ‘작용’과 ‘반작용’을 구분하는 것은 무의미하므로 현재는 다음과 같이 기술한다.
 > 운동에 관한 뉴턴의 제3법칙  : 물체 A가 물체 B에 힘을 작용하면 물체 B는 크기가 같고 방향이 반대인 힘을 물체 A에 작용한다.
-> ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 23.webp]]
+> ![[/books/Essential_University_Physics/Essential_University_Physicis 23.webp]]
 
   앞으로는 뉴턴의 제3법칙이 기술하는 두 힘을 **상호작용 짝힘**(interaction force pair) 또는 **3법칙 짝**(third-law pair)라고 표기한다. 물체 $A$가 물체 $B$에 작용하는 힘은 $\vec F_{AB}$이고, 물체 $B$가 물체$A$에 작용하는 힘은 $\vec F_{BA}$이다. 이때 두 힘의 크기는 같고, 방향은 반대이지만, 같은 물체에 작용하지 않으므로 서로 상쇄되지 않는다.
   **수직 항력**(normal force, 기호는 $\vec n$)이라고 부른다. 
 ### 힘의 측정
   뉴턴의 제3법칙 용수철의 인장력이나 압축력을 이용하여, 힘을 편리하게 측정할 수 있게 한다. 용수철에 작용하는 힘에 비례하여 용수철이 늘어나거나 줄어들기 때문이다. 
   
-| ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 24.webp]] | ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 25.webp]] |
+| ![[/books/Essential_University_Physics/Essential_University_Physicis 24.webp]] | ![[/books/Essential_University_Physics/Essential_University_Physicis 25.webp]] |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
   **이상적인 용수철**(ideal spring)의 늘어남과 줄어듦은 용수철에 작용하는 힘에 정비례한다. **훅 법칙**(Hooke's law)은 이를 수식으로 표기한 것이다.
 ![[physics_math_ex_set#^e28dd1]]
