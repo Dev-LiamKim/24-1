@@ -71,30 +71,56 @@ $(3.7)$
 $$\vec v = \vec{v^\prime} + \vec V$$ ^1f37f3
 
 $(3.8)$
-$$\vec v = \vec v_0 + \vec at$$
+$$\vec v = \vec v_0 + \vec at$$ ^eb97d3
 
 $(3.9)$
-$$\vec r = \vec r_0 + \vec v_0t + \frac{1}{2}\vec a t^2$$
+$$\vec r = \vec r_0 + \vec v_0t + \frac{1}{2}\vec a t^2$$ ^9d77f7
 
 $(3.10)$
-$$v_x = v_{x0}$$
+$$v_x = v_{x0}$$ ^5a2a08
 
 $(3.11)$
-$$v_y = v_{y0}-gt$$
+$$v_y = v_{y0}-gt$$ ^5cf907
 
 $(3.12)$
-$$x = x_0 + v_{x0}t$$
+$$x = x_0 + v_{x0}t$$ ^964005
 
 $(3.13)$
-$$y = y_0 + v_{y0}t-\frac{1}{2}gt^2$$
+$$y = y_0 + v_{y0}t-\frac{1}{2}gt^2$$ ^ceb39e
 
 $(3.14)$
-$$y = x\tan\theta_0 - \frac{g}{2v_0^2\cos^2\theta_0}x^2$$
+$$y = x\tan\theta_0 - \frac{g}{2v_0^2\cos^2\theta_0}x^2$$ ^3fbd34
 
 $(3.15)$
-$$x = \frac{v_0^2}{g}\sin2\theta_0$$
+$$x = \frac{v_0^2}{g}\sin2\theta_0$$ ^4a6035
 
 $(3.16)$
-$$a = \frac{v^2}{r}$$
+$$a = \frac{v^2}{r}$$ ^bdd3a2
 
 
+$(4.1)$
+$$\vec p = m\vec v$$ ^49210d
+
+$(4.2)$
+$$\vec F_{알짜} = \frac{d\vec p}{dt}$$ ^e95e71
+
+$(4.3)$
+$$\vec F_{알짜} = m\vec a$$ ^b45742
+
+$(4.4)$
+$$\frac{m_{모른다}}{m_{안다}} = \frac{a_{안다}}{a_{모른다}}$$ ^340f89
+
+$(4.5)$
+$$\vec w = m\vec g$$ ^c32ef9
+
+$(4.6)$
+$$\vec F_{알짜} = \vec T + \vec F_g = m\vec a$$
+
+$(4.7)$
+$$T_y + F_{gy} = ma_y$$
+
+$(4.8)$
+$$T = ma_y + mg = m(a_y+g)$$
+
+$(4.9)$
+$$F_s = -kx$$ ^e28dd1
