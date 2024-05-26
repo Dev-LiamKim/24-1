@@ -62,21 +62,20 @@ $$(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$$
   ![[physics_math_ex_set#^1f37f3]]
 ## 3.4 등가속도 운동
   가속도가 일정하면 가속도 벡터의 성분들도 일정하다. 더욱이 한 방향의 가속도 성분은 수직한 운동과는 전혀 상관이 없다. 즉 가속도가 일정하면 운동의 성분별로 등가속도 운동을 한다.
-![[physics_math_ex_set#^eb97d3]]
-![[physics_math_ex_set#^9d77f7]]
->$\vec r$ 은 임이의의 시간 $t$에서의 물체의 속도이다.
+![[physics_math_ex_set#^eb97d3]]![[physics_math_ex_set#^9d77f7]]
+>$\vec r$ 은 임이의 시간 $t$에서의 물체의 속도이다.
 >$\vec r_0$은 $t = 0$에서 초기 위치이다.
 >
 ## 3.5 발사체 운동
+![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 7.webp|500]]
   공중으로 발사된 **발사체**(projectile)는 중력의 영향 아래에서 움직인다. 발사체 운동을 기술하려면 다음의 두 가지 가정이 필요하다. 1) 중력가속도의 크기나 방향의 변화를 무시한다. 2) 공기 저항을 무시한다.
   발사체 운동을 기술할, $y$축을 수직방향, $x$축을 수평 방향으로 택하면 편리하다. 가속도 성분은 중력 가속도 하나뿐이므로, $a_x = 0, \quad a_y=-g$이다
   ![[physics_math_ex_set#^5a2a08]]![[physics_math_ex_set#^5cf907]]![[physics_math_ex_set#^964005]]![[physics_math_ex_set#^ceb39e]]
-  식 3.10 ~ 3.13까지는 아래 그림을 수식으로 표현한 것이다.
-![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 7.webp|500]]
+
   
 ### 발사체 궤적
 ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 8.webp|500]]
-  많은 경우 발사체 운동보다는 발사체 **궤적**(trajectory)에 관심이 많다. 위 그림에 따르면, 식 3.12와 3.13은 각각 다음과 같다.
+  많은 경우 발사체 운동보다는 발사체 **궤적**(trajectory)에 관심이 많다. 위 그림에 따르면, 식 3.12와 3.13은 각각 다음과 같다. 
   $$x=v_0\cos\theta_0t \quad \quad and \quad \quad y = v_0\sin\theta_0t-\frac{1}{2}gt^2$$
   $x$성분 식에서 시간 $t$는 
   $$t = \frac{x}{v_0\cos\theta_0}$$

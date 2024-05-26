@@ -39,7 +39,7 @@ $dx$와 $dt$를 극한 과정에서 0으로 접근하는 무한소(infinitesimal
 >$$\frac{dx}{dt} = nbt^{n-1}$$
 
 ## 2.3 가속도
-시간 간격 $\Delta t$에 대한 **평균 가속도(average acceleration)**를 다음과 같이 정의한다.
+시간 간격 $\Delta t$에 대한 **평균 가속도**(average acceleration)를 다음과 같이 정의한다.
 
 >$(2.4)$
 >$$\bar a = \frac{\Delta v}{\Delta t}\quad(평균 가속도)$$
@@ -55,7 +55,7 @@ t} = \frac{dv}{dt}\quad(순간\,\,가속도)$$
 >$\frac{dv}{dt}$ : 시간에 대한 속도의 변화율 도함수
 
 ### 위치, 속도, 가속도
-
+이계 도함수 : 도함수의 도함
 수학적으로 가속도를 위치의 시간에 대한 이계 도함수(second derivative)라고 한다. 즉 $d^2x/dt^2$으로 표기한다. 이제 가속도, 속도, 위치의 관계를 다음과 같이 표기할 수 있다.
 >$(2.6)$
 >$$a = \frac{dv}{dt}=\frac{d}{dt}(\frac{dx}{dt}) = \frac{d^2x}{dt^2}$$

@@ -1,8 +1,8 @@
 $(2.1)$
-	$$\bar{v} = \frac{\Delta x} {\Delta t}\quad$$
-	 ^6c341a
+$$\bar{v} = \frac{\Delta x} {\Delta t}\quad$$
+^6c341a
 
-$(2.2a)$
+$(2.2)$
 $$ v = \lim_{\Delta t \rightarrow 0} \frac{\Delta x} {\Delta t}$$ ^432453
 
 $(2.2a)$
