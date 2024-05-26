@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "books/Essential_University_Physics/Essential_University_Physicis.pdf",
-                "page": 2,
-                "left": -506,
-                "top": 718,
+                "page": 1,
+                "left": -683,
+                "top": 434,
                 "zoom": 0.6522988505747128
               }
             }
@@ -25,27 +25,16 @@
             "id": "9d1a1df7d9ffea44",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Essential_University_Physics/핵심물리학_OCR.pdf",
-                "page": 66,
-                "left": -272,
-                "top": 650,
-                "zoom": 0.6073127229488704
-              }
-            }
-          },
-          {
-            "id": "7ca47116b1506fdb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "books/Essential_University_Physics/Essential_University_Physicis 25.webp"
+                "file": "quizSet/quiz/generalGeometricFunctions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Essential_University_Physics/Essential_University_Physicis.pdf",
+                "file": "quizSet/quiz/generalGeometricFunctions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Essential_University_Physics/Essential_University_Physicis.pdf",
+                "file": "quizSet/quiz/generalGeometricFunctions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Essential_University_Physics/Essential_University_Physicis.pdf"
+                "file": "quizSet/quiz/generalGeometricFunctions.md"
               }
             }
           },
@@ -185,7 +174,8 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -211,29 +201,60 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "1ac92ddf83682810",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "physics_1/summary/ch3 이차원, 삼차원 운동.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9d36547584f7575c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "physics_1/summary/ch2 직선 운동.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 832,
-        "y": 136,
+        "x": 594,
+        "y": 148,
         "width": 601,
-        "height": 601,
+        "height": 600,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "5a631485e25f3a66",
+  "active": "9d1a1df7d9ffea44",
   "lastOpenFiles": [
-    "physics_1/summary/ch4 힘과 운동.md",
-    "books/Essential_University_Physics/Essential_University_Physicis.pdf",
-    "books/Essential_University_Physics/Essential_University_Physicis 25.webp",
-    "physics_1/summary/ch3 이차원, 삼차원 운동.md",
-    "books/Essential_University_Physics/Essential_University_Physicis 26.webp",
-    "physics_1/summary/ch2 직선 운동.md",
+    "Excalidraw/Drawing 2024-05-27 08.33.42.excalidraw.md",
+    "quizSet/quiz/generalGeometricFunctions.md",
+    "Excalidraw",
     "books/Essential_University_Physics/핵심물리학_OCR.pdf",
+    "physics_1/summary/ch3 이차원, 삼차원 운동.md",
+    "books/Essential_University_Physics/Essential_University_Physicis.pdf",
+    "physics_1/summary/ch4 힘과 운동.md",
+    "physics_1/summary/ch2 직선 운동.md",
+    "books/discreteMathBooks/13. 재귀적관계.pdf",
+    "discreteMath/noteTake/13. 재귀적 관계.md",
+    "Untitledssd.md",
+    "books/Essential_University_Physics/Essential_University_Physicis 25.webp",
+    "books/Essential_University_Physics/Essential_University_Physicis 26.webp",
     "books/Essential_University_Physics/Essential_University_Physicis 24.webp",
     "books/Essential_University_Physics/Essential_University_Physicis 23.webp",
     "books/Essential_University_Physics/Essential_University_Physicis 22.webp",
@@ -243,7 +264,6 @@
     "books/Essential_University_Physics/Essential_University_Physicis 18.webp",
     "books/Essential_University_Physics/Essential_University_Physicis 17.webp",
     "physics_1/physics_math_ex_set.md",
-    "discreteMath/noteTake/13. 재귀적 관계.md",
     "books",
     "creativeEngineeringDesign/2024-05-20.md",
     "README.md",
@@ -262,16 +282,12 @@
     "24-1/OneDrive/quizSet/quiz",
     "24-1/OneDrive/quizSet",
     "24-1/OneDrive/사진/스크린샷",
-    "24-1/OneDrive/사진",
-    "24-1/OneDrive/문서/Office Lens",
     "24-1/quizSet/quiz/physics_1/physics_math_ex_set2.md",
     "24-1/physics_1/summary/ch4 힘과 운동.md",
     "24-1/physics_1/summary/ch2 직선 운동.md",
-    "Untitled.md",
     "24-1/physics_1/summary/ch16.md",
     "24-1/discreteMath/noteTake/12. 순열_이산적확률_재귀적관계.md",
     "24-1/discreteMath/noteTake/13. 재귀적 관계.md",
-    "24-1/artificlaIntelligence/다른 조 발표 정리.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

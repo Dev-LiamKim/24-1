@@ -23,10 +23,11 @@ $$(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$$
   
 
 ### 벡터 성분
-**좌표계**는 공간에서 위치를 지정하는 틀이다. **데카르트 좌표계**(Cartesian coordinate system),  **직각 좌표계**(rectangular coordinate system)에서는 평면의 한 점을 $(x,y)$로 표기한다. 직각 좌표계에서 $\vec{A}$의 성분은 $A_x$와 $A_y$로 표기한다. 이들 성분 벡터가 아니고 스칼라다. 이를 피타고라스를 정리를 이용하면 다음의 관계식을 얻을 수 있다.
-![[/books/physics_math_ex_set#^0c3e0f]]
+  \,\,  **좌표계**는 공간에서 위치를 지정하는 틀이다. **데카르트 좌표계**(Cartesian coordinate system),  **직각 좌표계**(rectangular coordinate system)에서는 평면의 한 점을 $(x,y)$로 표기한다. 직각 좌표계에서 $\vec{A}$의 성분은 $A_x$와 $A_y$로 표기한다. 이들 성분 벡터가 아니고 스칼라다. 이를 피타고라스를 정리를 이용하면 다음의 관계식을 얻을 수 있다.
+  
+![[/physics_1/physics_math_ex_set#^0c3e0f]]
   또한 다음과 같이 표기할 수 있다.
-![[/books/physics_math_ex_set#^51cede]]
+![[/physics_1/physics_math_ex_set#^51cede]]
 
 ![[/books/Essential_University_Physics/Essential_University_Physicis 3.webp]]
 	
