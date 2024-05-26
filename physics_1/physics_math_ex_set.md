@@ -62,7 +62,7 @@ $(3.4)$
 $$\vec v = \lim_{\Delta t \to 0}\frac{\Delta \vec r}{\Delta t} =\frac{d\vec r}{dt}$$ ^cee9d3
 
 $(3.5)$
-$$\bar {\vec a} = \frac{\Delta \vec r} {\Delta t}$$ ^d626f8
+$$\bar {\vec a} = \frac{\Delta \vec v} {\Delta t}$$ ^d626f8
 
 $(3.6)$
 $$\vec a = \lim_{\Delta t \to 0}\frac{\Delta \vec v}{\Delta t} = \frac{d\vec v}{dt}$$ ^0035f4

@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "fd98c475d552cafe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0378e6ef53854ad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c43bed3d28defe4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a631485e25f3a66",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d1a1df7d9ffea44",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ca47116b1506fdb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a892f34d234616a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd780bdd19ee181d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3a13ee7cff4b212",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7b857f9fe586a04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc309588a6dee228",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "608f9b7db7cfd50e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a37d161aff8f61f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d0494dd40dee524",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9ecc17e0998da55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "999a2129fb28d6a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47692cf28ab0914e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "13abc136b186debf",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "7c43bed3d28defe4",
+  "lastOpenFiles": [
+    "24-1/quizSet/quiz/physics_1/ch3 Quiz.md",
+    "24-1/quizSet/quiz/physics_1/ch4 Quiz.md",
+    "24-1/Todo.md",
+    "24-1/quizSet/quiz/physics_1/ch2 Quiz.md",
+    "24-1/physics_1/physics_math_ex_set.md",
+    "24-1/physics_1/Essential_University_Physics/핵심물리학_OCR.pdf",
+    "24-1/physics_1/summary/ch3 이차원, 삼차원 운동.md",
+    "24-1/OneDrive/quizSet/quiz/physics_1/physics_math_ex_set2.md",
+    "24-1/OneDrive/quizSet/quiz/physics_1/ch4 Quiz.md",
+    "24-1/OneDrive/quizSet/quiz/physics_1/ch3 Quiz.md",
+    "24-1/OneDrive/quizSet/quiz/physics_1/ch2 Quiz.md",
+    "24-1/OneDrive/quizSet/quiz/physics_1",
+    "24-1/OneDrive/quizSet/quiz",
+    "24-1/OneDrive/quizSet",
+    "24-1/OneDrive/사진/스크린샷",
+    "24-1/OneDrive/사진",
+    "24-1/OneDrive/문서/Office Lens",
+    "24-1/OneDrive/문서/핵심물리학.url",
+    "24-1/OneDrive/문서/동혁의 전자 필기장.url",
+    "24-1/OneDrive/문서/한국사 기록.url",
+    "24-1/quizSet/quiz/physics_1/physics_math_ex_set2.md",
+    "24-1/physics_1/summary/ch4 힘과 운동.md",
+    "24-1/physics_1/summary/ch2 직선 운동.md",
+    "Untitled.md",
+    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 25.webp",
+    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 24.webp",
+    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 23.webp",
+    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 22.webp",
+    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 21.webp",
+    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 20.webp",
+    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 19.webp",
+    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 18.webp",
+    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 17.webp",
+    "24-1/physics_1/summary/ch16.md",
+    "24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 16.webp",
+    "24-1/discreteMath/noteTake/12. 순열_이산적확률_재귀적관계.md",
+    "24-1/discreteMath/noteTake/13. 재귀적 관계.md",
+    "24-1/artificlaIntelligence/다른 조 발표 정리.md",
+    "24-1/history/2024-05-20.md",
+    "24-1/history/2024-05-22.md",
+    "24-1/quizSet/quiz/physics_1/physics_math_ex_set 1.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2024-05-21.md",
+    "Welcome.md",
+    "24-1/creativeEngineeringDesign/2024-05-22.md",
+    "24-1/history/한국사 과제_의병.md"
+  ]
+}

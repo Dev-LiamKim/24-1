@@ -58,5 +58,3 @@ $$x = \frac{v_0^2}{g}\sin2\theta_0$$
 ?
 $(3.16)$
 $$a = \frac{v^2}{r}$$
- 
- #physics_ch3

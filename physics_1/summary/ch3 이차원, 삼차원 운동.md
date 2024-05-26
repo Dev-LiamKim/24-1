@@ -30,7 +30,7 @@ $$(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$$
 ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 3.webp]]
 	
 ### 단위 벡터
-  **단위 벡터**(unit vector) $\hat i$와 $\hat j$를 사용하면 훨씬 간명하고 편리하게 표현할 수 있다. 단위 벡터의 크기 1이, 단위가 없으면 각각$x$축과 $y$축의 양의 방향을 향한다. 삼차원에서는 $z$축 방향의 단위 벡터 $\hat k$를 추가한다. 이차원 평면에서 $\vec A = A_x\hat i + A_y\hat j$ ,삼차원 공간에서 $\vec A = A_x\hat i + A_y\hat j + A_z\hat k$로 표기한다.
+  **단위 벡터**(unit vector) $\hat i$와 $\hat j$를 사용하면 훨씬 간명하고 편리하게 표현할 수 있다. 단위 벡터의 크기 1이고, 단위가 없으면 각각$x$축과 $y$축의 양의 방향을 향한다. 삼차원에서는 $z$축 방향의 단위 벡터 $\hat k$를 추가한다. 이차원 평면에서 $\vec A = A_x\hat i + A_y\hat j$ ,삼차원 공간에서 $\vec A = A_x\hat i + A_y\hat j + A_z\hat k$로 표기한다.
 
 | ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 4.webp]] | ![[24-1/physics_1/Essential_University_Physics/Essential_University_Physicis 5.webp]] |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
