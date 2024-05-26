@@ -5,7 +5,10 @@
     "flashcardHardText": "Hard",
     "flashcardTags": [
       "",
-      "#physics_ch2"
+      "#physics_ch2",
+      "#physics_ch3",
+      "#physics_ch4",
+      "#generalGeometricFunctions"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
