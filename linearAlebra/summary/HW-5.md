@@ -1,0 +1,4 @@
+- 4.6 ExerciseSet(2, 6, 8, 12, 14)
+- 4.7 ExerciseSet(4, 6, 8, 12, 16)
+- 4.8 ExerciseSet(4, 8, 10, 12, 14, 16)
+- 4.9 ExerciseSet(2, 4, 14, 20, 22)

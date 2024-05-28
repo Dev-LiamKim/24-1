@@ -41,6 +41,9 @@ $$(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$$
 단위 벡터를 사용하면 벡터 더하기가 더 쉬워진다. 예를 들어 설명하겠다. 벡터$\vec A = A_x\hat i + A_y\hat j$와 벡터 $\vec B = B_x\hat i + B_y\hat j$를 더한다고 가정하면 벡터의 성분만 더하면 된다.
   $$\vec A + \vec B = \left(A_x\hat i + B_x\hat j\right) + \left(A_y\hat i + B_y\hat j\right) = \left(A_x + B_x\right)\hat i + \left(A_y + B_y\right)\hat j$$
 
+### 예제 3.1
+![[books/Essential_University_Physics/핵심물리학_OCR.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 1.webp]]
 
 ## 3.2 속도 벡터, 가속도 벡터
   일차원에서 속도를 위치의 시간 변화율로 정의하였다. 고차원에서 위치의 변화인 변위가 벡터인 점을 제외하면 똑같다.
@@ -62,17 +65,30 @@ $$(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$$
   한 **기준틀**(frame of reference)에 대한 어떤 물체의 상대 속도(비행기를 예로들) 다른 기준틀(지표면)에 대한 상대 속도 바꿔야 하는 경우가 있다. 일차원인 경우에는 두 벡터를 단순히 더하면 된다. 
   비행기가 대기에 대한 상대 속도 $\vec v\prime$으로 비행하고 있을, 바람의 영향으로 지표면에 대한 대기의 상대 속도가 $\vec V$라면, 지표면에 대한 상대 속도 $\vec v$는 다음과 같다.
   ![[physics_math_ex_set#^1f37f3]]
+
+### 예제 3.2
+![[books/Essential_University_Physics/핵심물리학_OCR 2.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 3.webp]]
+
 ## 3.4 등가속도 운동
   가속도가 일정하면 가속도 벡터의 성분들도 일정하다. 더욱이 한 방향의 가속도 성분은 수직한 운동과는 전혀 상관이 없다. 즉 가속도가 일정하면 운동의 성분별로 등가속도 운동을 한다.
 ![[physics_math_ex_set#^eb97d3]]![[physics_math_ex_set#^9d77f7]]
 >$\vec r$ 은 임이의 시간 $t$에서의 물체의 속도이다.
 >$\vec r_0$은 $t = 0$에서 초기 위치이다.
->
+
+### 예제 3.3
+![[books/Essential_University_Physics/핵심물리학_OCR 4.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 5.webp]]
+
+
 ## 3.5 발사체 운동
 ![[/books/Essential_University_Physics/Essential_University_Physicis 7.webp|500]]
   공중으로 발사된 **발사체**(projectile)는 중력의 영향 아래에서 움직인다. 발사체 운동을 기술하려면 다음의 두 가지 가정이 필요하다. 1) 중력가속도의 크기나 방향의 변화를 무시한다. 2) 공기 저항을 무시한다.
   발사체 운동을 기술할, $y$축을 수직방향, $x$축을 수평 방향으로 택하면 편리하다. 가속도 성분은 중력 가속도 하나뿐이므로, $a_x = 0, \quad a_y=-g$이다
   ![[physics_math_ex_set#^5a2a08]]![[physics_math_ex_set#^5cf907]]![[physics_math_ex_set#^964005]]![[physics_math_ex_set#^ceb39e]]
+### 예제 3.4
+![[books/Essential_University_Physics/핵심물리학_OCR 6.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 7.webp]]
 
   
 ### 발사체 궤적
@@ -85,6 +101,12 @@ $$(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$$
   $$y=v_0\sin\theta_0\left(\frac{x}{v_0\cos\theta_0}\right)-\frac{1}{2}g\left(\frac{x}{v_0\cos\theta_0}\right)^2$$
   또는 다음과 같이 궤적을 얻는다.
 ![[physics_math_ex_set#^3fbd34]]
+
+### 예제3.5
+![[books/Essential_University_Physics/핵심물리학_OCR 8.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 9.webp]]
+
+
 ### 발사체 수평 도달 거리
 **수평 도달 거리**(horizontal range)는 다음과 같이 얻을 수 있다.
 식 3.14에 $y=0$을 넣으면 지면에서 발사한 발사체가 다시 지면으로 되돌아오는 거리를 얻을 수 있다. 
@@ -98,6 +120,10 @@ $$x=\frac{2v_0^2}{g}\cos^2\theta_0\tan\theta_0=\frac{2v_0^2}{g}\sin\theta_0\cos\
 
 | ![[/books/Essential_University_Physics/Essential_University_Physicis 12.webp]]<br><br> | ![[/books/Essential_University_Physics/Essential_University_Physicis 13.webp]]<br><br> |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+
+### 예제 3.6
+![[books/Essential_University_Physics/핵심물리학_OCR 10.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 11.webp]]
 
 ## 3.6 등속 원운동
 ![[/books/Essential_University_Physics/Essential_University_Physicis 14.webp|400]]
@@ -116,4 +142,17 @@ $$\frac{\Delta v}{v} \simeq \frac{v\Delta t}{r}$$
  >$a$ : 물체가 등속 원운동을 할 때 물체의 가속도 크기.
 
 위 식은 반지름이 $r$인 원둘레를 등속력 $v$로 도는 물체의 순간 가속도 크기이다. 그렇다면 가속도의 방향은 무엇일까? 그림(c)를 보면, $\Delta \vec v$가 두 속도 벡터에 거의 수직이다. 따라서 $\Delta t \to 0$인 극한을 취하면 $\Delta \vec v$는 가속도 $\frac{\Delta \vec v}{\Delta t}$의 방향은 정확히 속도에 수직이다. 즉 가속도 벡터의 방향은 원의 중심을 향한다. 
+
+### 예제 3.7
+![[books/Essential_University_Physics/핵심물리학_OCR 12.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 13.webp]]
+
+
+### 예제 3.8
+![[books/Essential_University_Physics/핵심물리학_OCR 14.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 15.webp]]
+
 ### 가속 원운동
+![[books/Essential_University_Physics/Essential_University_Physicis 26.webp|300]]
+
+원형 궤도를 도는 물체의 속력이 바뀌면 어떻게 될까? 가속도는 속도에 수직한 성분과 평행한 성분 모두를 갖게 된다. 수직한 성분은 물체가 원운동을 하도록 방향만 바꾸는 **지름 가속도**(radical acceleration) $a_r$，그 크기는 $\frac{v^2}{r}$로 일정하다. 평행한 성분은 원의 접선 방향이고 방향이 아니라 속력을 바꾸는 **접선 가속도**(tangential acceleration) $a_t$ 이다. 따라서 그 크기는 속력의 시간 변화율 $\frac{dv}{dt}$이다. 위 그림은 커브길을 도는 자동차의 두 가속도를 보여 준다. 끝으로 곡선 경로의 반지름이 바뀌면 어떻게 될까? 곡선의 모든 점에는 대응하는 **곡률 반 지름**(radius of curvarture)가 있으므로, 지름 가속도는 $\frac{v^2}{r}$이며，곡선을 따라 $v$또는 $r$가 변하면 같이 변한다. 접선 가속도는 곡선에 항상 접하며 속력의 시간 변화율이다. 따라서 등 속 원운동의 개념을 속력，반지름 또는 둘 다 변하는 가속 원운동으로 확장할 수 있다.

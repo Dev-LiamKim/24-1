@@ -1,0 +1,11 @@
+
+/*pdf 노트 내장 뷰어 메뉴 숨기기*/
+.internal-embed > div.pdf-toolbar{
+  pointer-events: none;
+  display:none;
+}
+
+.internal-embed{
+  pointer-events: none;
+}
+

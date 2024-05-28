@@ -1,4 +1,8 @@
 {
   "accentColor": "#e64c4c",
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "snippet",
+    "test"
+  ]
 }

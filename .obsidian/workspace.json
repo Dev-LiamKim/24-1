@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0378e6ef53854ad0",
+        "id": "a06c1d8adeec52b2",
         "type": "tabs",
         "children": [
           {
-            "id": "5a631485e25f3a66",
+            "id": "6b8e1420b3d1d95a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Essential_University_Physics/Essential_University_Physicis.pdf",
-                "page": 1,
-                "left": -683,
-                "top": 434,
-                "zoom": 0.6522988505747128
-              }
-            }
-          },
-          {
-            "id": "9d1a1df7d9ffea44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quizSet/quiz/generalGeometricFunctions.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Essential_University_Physics/핵심물리학_OCR.pdf",
+                "page": 134,
+                "left": -373,
+                "top": 95,
+                "zoom": 0.75
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -47,16 +34,6 @@
         "id": "fd780bdd19ee181d",
         "type": "tabs",
         "children": [
-          {
-            "id": "a3a13ee7cff4b212",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "f7b857f9fe586a04",
             "type": "leaf",
@@ -79,12 +56,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "0e5948de79c0fa21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 557.5,
+    "width": 271.5,
     "collapsed": true
   },
   "right": {
@@ -101,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quizSet/quiz/generalGeometricFunctions.md",
+                "file": "books/Essential_University_Physics/핵심물리학_OCR.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quizSet/quiz/generalGeometricFunctions.md",
+                "file": "books/Essential_University_Physics/핵심물리학_OCR.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quizSet/quiz/generalGeometricFunctions.md"
+                "file": "books/Essential_University_Physics/핵심물리학_OCR.pdf"
               }
             }
           },
@@ -171,59 +159,45 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-spaced-repetition:Review flashcards": false,
+      "homepage:Open homepage": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false
     }
   },
   "floating": {
-    "id": "ed688802b817563b",
+    "id": "4f38c1b192585078",
     "type": "floating",
     "children": [
       {
-        "id": "67352a7427881330",
+        "id": "3d9bca1ebe4c18d6",
         "type": "window",
         "children": [
           {
-            "id": "44e864b482f04aa8",
+            "id": "7840e2df0163e542",
             "type": "tabs",
             "children": [
               {
-                "id": "ecba1cc89b54f1f1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "physics_1/summary/ch4 힘과 운동.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1ac92ddf83682810",
+                "id": "6e7f8947296d28c0",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "physics_1/summary/ch3 이차원, 삼차원 운동.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "9d36547584f7575c",
+                "id": "b8088678b8db9d90",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "physics_1/summary/ch2 직선 운동.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ],
@@ -231,63 +205,63 @@
           }
         ],
         "direction": "vertical",
-        "x": 594,
-        "y": 148,
-        "width": 601,
-        "height": 600,
+        "x": 1028,
+        "y": 133,
+        "width": 732,
+        "height": 755,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "9d1a1df7d9ffea44",
+  "active": "0e5948de79c0fa21",
   "lastOpenFiles": [
+    "Untitled 20240528 031428.mdenc",
+    "books/Essential_University_Physics/핵심물리학_OCR.pdf",
+    "books/Essential_University_Physics/핵심물리학_OCR.webp",
+    "Todo.md",
+    "physics_1/summary/ch3 이차원, 삼차원 운동.md",
+    "취미수학/첫 공부 방법.md",
+    "README.md",
+    "books/Essential_University_Physics/Essential_University_Physicis.pdf",
+    "취미수학",
+    "books/Essential_University_Physics/핵심물리학_OCR 15.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 14.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 13.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 12.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 11.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 10.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 9.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 8.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 7.webp",
+    "physics_1/summary/ch2 직선 운동.md",
+    "physics_1/physics_math_ex_set.md",
+    "physics_1/summary/ch5.md",
+    "physics_1/summary/ch6.md",
+    "physics_1/Make-up_class.md",
+    "linearAlebra/summary/HW-5.md",
+    "linearAlebra/summary/ch 4.9 Rank, Nullity and Fundamental Spases.md",
+    "artificlaIntelligence/뉴럴네트워크.md",
+    "books/artificialIntelligence/[Lecture 7-1] Artificial neural network.pdf",
+    "books/artificialIntelligence/[Lecture 7-1] Linear SVM.pdf",
+    "books/artificialIntelligence",
+    "books/새 폴더",
+    "creativeEngineeringDesign/2024-05-27.md",
+    "artificlaIntelligence/s.md",
+    "books/hisotryBooks/근대-개항기편2(동학-의병).pdf",
+    "artificlaIntelligence/개요.md",
+    "artificlaIntelligence/다른 조 발표 정리.md",
+    "history/2024-05-27.md",
+    "history/2024-05-22.md",
+    "history/2024-05-20.md",
     "Excalidraw/Drawing 2024-05-27 08.33.42.excalidraw.md",
     "quizSet/quiz/generalGeometricFunctions.md",
     "Excalidraw",
-    "books/Essential_University_Physics/핵심물리학_OCR.pdf",
-    "physics_1/summary/ch3 이차원, 삼차원 운동.md",
-    "books/Essential_University_Physics/Essential_University_Physicis.pdf",
     "physics_1/summary/ch4 힘과 운동.md",
-    "physics_1/summary/ch2 직선 운동.md",
     "books/discreteMathBooks/13. 재귀적관계.pdf",
     "discreteMath/noteTake/13. 재귀적 관계.md",
     "Untitledssd.md",
-    "books/Essential_University_Physics/Essential_University_Physicis 25.webp",
-    "books/Essential_University_Physics/Essential_University_Physicis 26.webp",
-    "books/Essential_University_Physics/Essential_University_Physicis 24.webp",
-    "books/Essential_University_Physics/Essential_University_Physicis 23.webp",
-    "books/Essential_University_Physics/Essential_University_Physicis 22.webp",
-    "books/Essential_University_Physics/Essential_University_Physicis 21.webp",
-    "books/Essential_University_Physics/Essential_University_Physicis 20.webp",
-    "books/Essential_University_Physics/Essential_University_Physicis 19.webp",
-    "books/Essential_University_Physics/Essential_University_Physicis 18.webp",
-    "books/Essential_University_Physics/Essential_University_Physicis 17.webp",
-    "physics_1/physics_math_ex_set.md",
-    "books",
     "creativeEngineeringDesign/2024-05-20.md",
-    "README.md",
-    "24-1/quizSet/quiz/physics_1/ch3 Quiz.md",
-    "24-1/quizSet/quiz/physics_1/ch4 Quiz.md",
-    "24-1/Todo.md",
-    "24-1/quizSet/quiz/physics_1/ch2 Quiz.md",
-    "24-1/physics_1/physics_math_ex_set.md",
-    "24-1/physics_1/Essential_University_Physics/핵심물리학_OCR.pdf",
-    "24-1/physics_1/summary/ch3 이차원, 삼차원 운동.md",
-    "24-1/OneDrive/quizSet/quiz/physics_1/physics_math_ex_set2.md",
-    "24-1/OneDrive/quizSet/quiz/physics_1/ch4 Quiz.md",
-    "24-1/OneDrive/quizSet/quiz/physics_1/ch3 Quiz.md",
-    "24-1/OneDrive/quizSet/quiz/physics_1/ch2 Quiz.md",
-    "24-1/OneDrive/quizSet/quiz/physics_1",
-    "24-1/OneDrive/quizSet/quiz",
-    "24-1/OneDrive/quizSet",
-    "24-1/OneDrive/사진/스크린샷",
-    "24-1/quizSet/quiz/physics_1/physics_math_ex_set2.md",
-    "24-1/physics_1/summary/ch4 힘과 운동.md",
-    "24-1/physics_1/summary/ch2 직선 운동.md",
-    "24-1/physics_1/summary/ch16.md",
-    "24-1/discreteMath/noteTake/12. 순열_이산적확률_재귀적관계.md",
-    "24-1/discreteMath/noteTake/13. 재귀적 관계.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
