@@ -34,6 +34,11 @@
   여기서는 단순히 크기에만 관심이 있으므로 벡터로 표기하지 않음, 두 힘은 같음으로
   ![[physics_math_ex_set#^340f89]]
   다음 식을 얻는다. 
+
+### 예제 4.1
+![[books/Essential_University_Physics/핵심물리학_OCR 16.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 17.webp]]
+
 ### 관성 기준계
   뉴턴의 법칙은 가속하는 기준계 에서는 성립하지 않고, 등속하는 기준계에서 만 성립한다. 이 기준계는 관성 법칙이 성립되기 때문에 **관성 기준계**(inertial reference frame)라고 한다. 가속하는 비행기, 커브길을 도는 자동차, 회전목마와 같은 비관성 기준계에서는 알짜힘이 없어도 정지해 있는 물체가 움직인다. 따라서 뉴턴의 제1법칙을 만족하는지 여부로 관성 기준계인지 구분할 수 있다. 
 ## 힘
@@ -56,6 +61,11 @@
 >$m$ : 물체의 질량
 
   지표면에서 질량이 $65kg$인 사람의 몸무게는 $(65kg)(9.8m/s^2)$, 즉 $640N$이다. 그러나 달 표면에서는 중력 가속도가 $1.6m/s^2$이므로 몸무게는 $100N$에 불과하다. 머나먼 은하 공간에서 중력 물체에서 멀 떨어져 있으므로 몸무게가 사실상 0이 될 것이다.
+
+### 예제 4.2
+![[books/Essential_University_Physics/핵심물리학_OCR 18.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 19.webp]]
+
 ### 무중력 상태
   우주 비행사는 '무중력 상태'일까? 정의에 의하면 아니다. 전형적인 우주정거장의 고도에서 중력가속도는 지표면의 $89\%$이므로, 중력 $m\vec g$가 작용하고, 우주비행사의 몸무게는 지표면에서와 큰 차이 없다. 그러나 무중력 상태처럼 보이고, 우주비행사들은 무중력로 느낀다. 왜 그럴까?
   줄이 끊어져서 중력 가속도 $g$로 자유낙하는 승강기 안에서 책을 놓으면 책은 공중에 떠 있는다. 이 상태를 **겉보기 무중력 상태**(apparent weightlessness)라고 부른다.
@@ -70,6 +80,9 @@
 >3. 물체에 작용하는 힘들만 벡터로 그린다. 모든 벡터가 점에서 시작하도록 벡터의 꼬리를 점에 둔다.
 >![[/books/Essential_University_Physics/Essential_University_Physicis 20.webp]]
 
+### 예제 4.3
+![[books/Essential_University_Physics/핵심물리학_OCR 20.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 21.webp]]
 
 ### 겉보기 무게
   승강기가 위 방향으로 가속되면 위 방향으로 알짜힘을 주기 위해 수직 항력은 중력보다 크게 되고, 여러분은 자신이 더 무거워졌다고 느낀다. 반면에 아래 방향으로 가속될 경우 여러분은 자신이 더 가벼워졌다고 느낀다. 이것을 **겉보기 무게**(apparent weight)라고 한다.
@@ -84,6 +97,11 @@
 
   앞으로는 뉴턴의 제3법칙이 기술하는 두 힘을 **상호작용 짝힘**(interaction force pair) 또는 **3법칙 짝**(third-law pair)라고 표기한다. 물체 $A$가 물체 $B$에 작용하는 힘은 $\vec F_{AB}$이고, 물체 $B$가 물체$A$에 작용하는 힘은 $\vec F_{BA}$이다. 이때 두 힘의 크기는 같고, 방향은 반대이지만, 같은 물체에 작용하지 않으므로 서로 상쇄되지 않는다.
   **수직 항력**(normal force, 기호는 $\vec n$)이라고 부른다. 
+
+### 예제 4.4
+![[books/Essential_University_Physics/핵심물리학_OCR 22.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 23.webp]]
+
 ### 힘의 측정
   뉴턴의 제3법칙 용수철의 인장력이나 압축력을 이용하여, 힘을 편리하게 측정할 수 있게 한다. 용수철에 작용하는 힘에 비례하여 용수철이 늘어나거나 줄어들기 때문이다. 
   
@@ -94,4 +112,11 @@
 >$F_s$ : 용수철 힘
 >$x$ : 용수철의 원래 길이(평형상태)에서 늘어나거나 줄어든 길이
 >$k$ : 용수철의 뻣뻣함을 나타내 **용수철 상수**(spring constant)이며 단위는 $N/m$이다 
->$음의\;부호$  : 용수철 힘이 용수철의 변형 방향과 반대 방향으로 작용한다는 것을 나타 
+>$음의\;부호$  : 용수철 힘이 용수철의 변형 방향과 반대 방향으로 작용한다는 것을 나타낸다.
+
+![[books/Essential_University_Physics/Essential_University_Physicis 27.webp]]
+ **용수철 저울**(spring scale)은 지침과 힘 단위로 매겨진 눈금이 달린 용수철이다.
+ 비록 용수철 저울로 무게를 알 수는 있지만 용수철 저울은 가속되지 않아야 한다는 시실에 주의해야 한다. 그렇지 않으면 용수철 저울은 단지 겉보기 무게를 측정할 뿐이다.
+### 예제 4.5
+![[books/Essential_University_Physics/핵심물리학_OCR 24.webp]]
+![[books/Essential_University_Physics/핵심물리학_OCR 25.webp]]

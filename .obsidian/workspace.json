@@ -4,20 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a06c1d8adeec52b2",
+        "id": "e525a5968797ef25",
         "type": "tabs",
         "children": [
           {
-            "id": "6b8e1420b3d1d95a",
+            "id": "9b788bae22c4f24e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Essential_University_Physics/핵심물리학_OCR.pdf",
-                "page": 134,
-                "left": -373,
-                "top": 95,
-                "zoom": 0.75
+                "file": "Todo.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -72,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "608f9b7db7cfd50e",
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Essential_University_Physics/핵심물리학_OCR.pdf",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Essential_University_Physics/핵심물리학_OCR.pdf",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Essential_University_Physics/핵심물리학_OCR.pdf"
+                "file": "Todo.md"
               }
             }
           },
@@ -168,100 +165,53 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "floating": {
-    "id": "4f38c1b192585078",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3d9bca1ebe4c18d6",
-        "type": "window",
-        "children": [
-          {
-            "id": "7840e2df0163e542",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6e7f8947296d28c0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "physics_1/summary/ch3 이차원, 삼차원 운동.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b8088678b8db9d90",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1028,
-        "y": 133,
-        "width": 732,
-        "height": 755,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0e5948de79c0fa21",
+  "active": "9b788bae22c4f24e",
   "lastOpenFiles": [
-    "Untitled 20240528 031428.mdenc",
+    "physics_1/physics_math_ex_set.md",
     "books/Essential_University_Physics/핵심물리학_OCR.pdf",
-    "books/Essential_University_Physics/핵심물리학_OCR.webp",
+    "physics_1/summary/ch17 물질의 열적 거동.md",
     "Todo.md",
+    "linearAlebra/summary/HW-5.md",
+    "Untitled 20240528 031428.mdenc",
+    "books/Essential_University_Physics/Essential_University_Physicis.pdf",
+    "physics_1/summary/ch5 뉴턴 법칙의 응용.md",
+    "books/Essential_University_Physics/핵심물리학_OCR 27.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 26.webp",
+    "physics_1/summary/ch4 힘과 운동.md",
+    "books/Essential_University_Physics/Essential_University_Physicis 27.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 25.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 24.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 23.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 22.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 21.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 20.webp",
+    "books/Essential_University_Physics/핵심물리학_OCR 19.webp",
+    "creativeEngineeringDesign/2024-05-29.md",
+    "books/discreteMathBooks/11.함수.pdf",
+    "books/discreteMathBooks/14. 부울대수.pdf",
+    "discreteMath/noteTake/Lecture 11 부울 대수.md",
+    "read.md.md",
+    "books/discreteMathBooks/13. 재귀적관계.pdf",
+    "books/discreteMathBooks/부울대수.pdf",
     "physics_1/summary/ch3 이차원, 삼차원 운동.md",
     "취미수학/첫 공부 방법.md",
     "README.md",
-    "books/Essential_University_Physics/Essential_University_Physicis.pdf",
     "취미수학",
-    "books/Essential_University_Physics/핵심물리학_OCR 15.webp",
-    "books/Essential_University_Physics/핵심물리학_OCR 14.webp",
-    "books/Essential_University_Physics/핵심물리학_OCR 13.webp",
-    "books/Essential_University_Physics/핵심물리학_OCR 12.webp",
-    "books/Essential_University_Physics/핵심물리학_OCR 11.webp",
-    "books/Essential_University_Physics/핵심물리학_OCR 10.webp",
-    "books/Essential_University_Physics/핵심물리학_OCR 9.webp",
-    "books/Essential_University_Physics/핵심물리학_OCR 8.webp",
-    "books/Essential_University_Physics/핵심물리학_OCR 7.webp",
     "physics_1/summary/ch2 직선 운동.md",
-    "physics_1/physics_math_ex_set.md",
-    "physics_1/summary/ch5.md",
     "physics_1/summary/ch6.md",
     "physics_1/Make-up_class.md",
-    "linearAlebra/summary/HW-5.md",
     "linearAlebra/summary/ch 4.9 Rank, Nullity and Fundamental Spases.md",
     "artificlaIntelligence/뉴럴네트워크.md",
     "books/artificialIntelligence/[Lecture 7-1] Artificial neural network.pdf",
     "books/artificialIntelligence/[Lecture 7-1] Linear SVM.pdf",
-    "books/artificialIntelligence",
-    "books/새 폴더",
     "creativeEngineeringDesign/2024-05-27.md",
     "artificlaIntelligence/s.md",
-    "books/hisotryBooks/근대-개항기편2(동학-의병).pdf",
     "artificlaIntelligence/개요.md",
     "artificlaIntelligence/다른 조 발표 정리.md",
     "history/2024-05-27.md",
     "history/2024-05-22.md",
     "history/2024-05-20.md",
     "Excalidraw/Drawing 2024-05-27 08.33.42.excalidraw.md",
-    "quizSet/quiz/generalGeometricFunctions.md",
-    "Excalidraw",
-    "physics_1/summary/ch4 힘과 운동.md",
-    "books/discreteMathBooks/13. 재귀적관계.pdf",
-    "discreteMath/noteTake/13. 재귀적 관계.md",
-    "Untitledssd.md",
-    "creativeEngineeringDesign/2024-05-20.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
