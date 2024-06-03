@@ -1,0 +1,2 @@
+# {{title}}
+create : {{date}} {{time}}

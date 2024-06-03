@@ -4,18 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "ec2c8a286ee165c1",
+        "id": "5243b89bd5906e95",
         "type": "tabs",
         "children": [
           {
-            "id": "ebc3e8fa0c4c28d0",
+            "id": "1de49c2ad4e07723",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
-                "mode": "preview",
+                "file": "creativeEngineeringDesign/status.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7a54d9238881c5ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1786e43214998dce",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Elementary_Linear_Alebra/Elementary_Linear_Alebra.pdf",
+                "page": 138,
+                "left": 14,
+                "top": 356,
+                "zoom": 0.6834281014857254
               }
             }
           }
@@ -38,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "exercise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "creativeEngineeringDesign/status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "creativeEngineeringDesign/status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "creativeEngineeringDesign/status.md"
               }
             }
           },
@@ -137,9 +156,16 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "ee4531f914ec0db2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,34 +188,51 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "meld-encrypt:Encrypt/Decrypt": false
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ebc3e8fa0c4c28d0",
+  "active": "1de49c2ad4e07723",
   "lastOpenFiles": [
-    "discreteMath/noteTake/Untitled.md",
-    "Todo.md",
-    "books/Elementary_Linear_Alebra/선형대수학_OCR.pdf",
-    "books/Elementary_Linear_Alebra/Elementary_Linear_Alebra.pdf",
+    "linearAlebra/summary/ch 4.9 Rank, Nullity and Fundamental Spases.md",
+    "settings/Templates/0A_Templates/0A_14_Trackers/0A_14_3_DailyTracker.md",
     "linearAlebra/summary/ch6 내적공간(InnerProductSpace)/ch6-1 내적(Inner Products).md",
-    "read.md.md",
-    "README.md",
-    "linearAlebra/summary/ch5",
-    "linearAlebra/summary/ch4",
-    "linearAlebra/summary/ch3",
-    "linearAlebra/summary/ch2",
-    "linearAlebra/summary/ch1",
     "linearAlebra/summary/ch6 내적공간(InnerProductSpace)/ch6-2.md",
-    "books/Essential_University_Physics/핵심물리학_OCR.pdf",
-    "linearAlebra/summary/ch6 내적공간(InnerProductSpace)",
-    "physics_1/physics_math_ex_set.md",
-    "physics_1/summary/ch17 물질의 열적 거동.md",
     "linearAlebra/summary/HW-5.md",
+    "linearAlebra/statusNote.md",
+    "books/Elementary_Linear_Alebra/Elementary_Linear_Alebra.pdf",
+    "Todo.md",
+    "[[Elementary_Linear_Alebra.pdf.md",
+    "history/문제.md",
+    "Untitled/Untitled.md",
+    "Untitled/Untitled 1.md",
+    "artificlaIntelligence/Untitled.md",
+    "artificlaIntelligence/status.md",
     "Untitled 20240528 031428.mdenc",
-    "physics_1/summary/ch5 뉴턴 법칙의 응용.md",
+    "Untitled",
+    "Untitled.canvas",
+    "settings/Templates/custom/custom_Template_2.md",
+    "creativeEngineeringDesign/status.md",
+    "history/한국사 과제_의병.md",
+    "artificlaIntelligence/s.md",
+    "creativeEngineeringDesign/2024-05-27.md",
+    "settings/Templates/custom/custome_Template_1.md",
+    "settings/Templates/test-Template1.md",
+    "settings/Templates/test-Template.md",
+    "2024-06-04.md",
+    "2024-06-02.md",
+    "physics_1/physics_math_ex_set.md",
+    "settings/Templates/custom",
+    "settings/Templates/templates/snippets-template.md",
+    "settings/Templates/templates/monthly-work-report-template.md",
+    "settings/Templates/templates",
+    "settings/Templates/0A_Templates/0A_9_Recipes",
+    "settings/Templates/0A_Templates/0A_99_Index",
+    "settings/Templates/0A_Templates/0A_8_Reviews",
+    "settings/Templates/0A_Templates/0A_7_Blog",
+    "settings/Templates/0A_Templates/0A_6_Books",
     "books/Essential_University_Physics/핵심물리학_OCR 27.webp",
     "books/Essential_University_Physics/핵심물리학_OCR 26.webp",
-    "physics_1/summary/ch4 힘과 운동.md",
     "books/Essential_University_Physics/Essential_University_Physicis 27.webp",
     "books/Essential_University_Physics/핵심물리학_OCR 25.webp",
     "books/Essential_University_Physics/핵심물리학_OCR 24.webp",
@@ -198,23 +241,7 @@
     "books/Essential_University_Physics/핵심물리학_OCR 21.webp",
     "books/Essential_University_Physics/핵심물리학_OCR 20.webp",
     "books/Essential_University_Physics/핵심물리학_OCR 19.webp",
-    "creativeEngineeringDesign/2024-05-29.md",
-    "discreteMath/noteTake/Lecture 11 부울 대수.md",
-    "physics_1/summary/ch3 이차원, 삼차원 운동.md",
-    "취미수학/첫 공부 방법.md",
-    "physics_1/summary/ch2 직선 운동.md",
-    "physics_1/summary/ch6.md",
-    "physics_1/Make-up_class.md",
-    "linearAlebra/summary/ch 4.9 Rank, Nullity and Fundamental Spases.md",
-    "artificlaIntelligence/뉴럴네트워크.md",
-    "creativeEngineeringDesign/2024-05-27.md",
-    "artificlaIntelligence/s.md",
-    "artificlaIntelligence/개요.md",
-    "artificlaIntelligence/다른 조 발표 정리.md",
-    "history/2024-05-27.md",
-    "history/2024-05-22.md",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }

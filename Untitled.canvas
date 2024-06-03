@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d9babdbc159ad529","type":"file","file":"physics_1/summary/ch2 직선 운동.md","x":-134,"y":-210,"width":400,"height":400},
+		{"id":"7208c9d3c0c84fc1","type":"file","file":"physics_1/summary/ch3 이차원, 삼차원 운동.md","x":560,"y":-210,"width":400,"height":400},
+		{"id":"6fa860ed81bb89b7","type":"link","url":"https://comic.naver.com/index","x":266,"y":400,"width":400,"height":400},
+		{"id":"1874cb34f878727a","x":578,"y":249,"width":250,"height":91,"type":"text","text":"ㅇㄴㄴㄹㄴㄴㅇㄹ\nㄴㅇㄹㄴㅇㄹㄴㅇㄹ\nㄴㅇㄹㄴ\nㄹㄴ"}
+	],
+	"edges":[
+		{"id":"6a4b4bb9f722d7b6","fromNode":"d9babdbc159ad529","fromSide":"right","toNode":"7208c9d3c0c84fc1","toSide":"left","label":"가나"},
+		{"id":"9a8241de3f965574","fromNode":"6fa860ed81bb89b7","fromSide":"top","toNode":"d9babdbc159ad529","toSide":"right"},
+		{"id":"ea30a783d01ddf3d","fromNode":"1874cb34f878727a","fromSide":"bottom","toNode":"6fa860ed81bb89b7","toSide":"top"}
+	]
+}

@@ -4,5 +4,9 @@
   "obsidian-spaced-repetition",
   "homepage",
   "pdf-plus",
-  "meld-encrypt"
+  "meld-encrypt",
+  "obsidian-annotator",
+  "templater-obsidian",
+  "calendar",
+  "dataview"
 ]

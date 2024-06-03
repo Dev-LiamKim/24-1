@@ -2,5 +2,6 @@
   "spellcheck": false,
   "focusNewTab": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "propertiesInDocument": "source"
 }
